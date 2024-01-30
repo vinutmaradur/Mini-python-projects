@@ -10,3 +10,4 @@ Python mini projects
 7. Chose_your_own_adventure
 8. Dice_roll_sim
 9. Alarm clock
+10. Currency Converter
