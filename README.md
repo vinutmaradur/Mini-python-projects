@@ -1,12 +1,12 @@
 # Mini-python-projects
 Python mini projects
 
-1.quiz_game
-2.rock_paper_scissor
-3.word counter
-4.password manager
-5.number guesser
-6.hangman
-7.chose_your_own_adventure
-8.Dice_roll_sim
-9.Alarm clock
+1. Quiz_game
+2. Rock_paper_scissor
+3. Word Counter
+4. Password Manager
+5. Number Guesser
+6. Hangman
+7. Chose_your_own_adventure
+8. Dice_roll_sim
+9. Alarm clock
