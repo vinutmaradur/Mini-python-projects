@@ -9,3 +9,4 @@ Python mini projects
 6.hangman
 7.chose_your_own_adventure
 8.Dice_roll_sim
+9.Alarm clock
