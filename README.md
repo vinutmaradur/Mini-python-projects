@@ -11,3 +11,4 @@ Python mini projects
 8. Dice_roll_sim
 9. Alarm clock
 10. Currency Converter
+11. Calculator
