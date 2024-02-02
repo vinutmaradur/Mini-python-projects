@@ -14,3 +14,4 @@ Python mini projects
 11. Calculator
 12. Countdown Timer
 13. Speed_type_test
+14. MadLibs_generator
