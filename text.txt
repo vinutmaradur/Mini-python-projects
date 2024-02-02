@@ -1,0 +1,4 @@
+Welcome to typing test application.
+This is another sentence that u need to type fast.
+Hello world.
+python is awesome
