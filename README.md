@@ -13,3 +13,4 @@ Python mini projects
 10. Currency Converter
 11. Calculator
 12. Countdown Timer
+13. Speed_type_test
