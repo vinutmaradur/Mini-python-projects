@@ -15,3 +15,5 @@ Python mini projects
 12. Countdown Timer
 13. Speed_type_test
 14. MadLibs_generator
+15. Address_Book
+16. Sudoku
